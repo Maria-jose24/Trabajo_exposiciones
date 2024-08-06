@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\bin\Debug\net8.0\metodosGetYSet.exe
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\bin\Debug\net8.0\metodosGetYSet.deps.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\bin\Debug\net8.0\metodosGetYSet.runtimeconfig.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\bin\Debug\net8.0\metodosGetYSet.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\bin\Debug\net8.0\metodosGetYSet.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\refint\metodosGetYSet.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\metodosGetYSet.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\metodosGetYSet\obj\Debug\net8.0\ref\metodosGetYSet.dll

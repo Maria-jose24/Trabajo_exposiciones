@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\bin\Debug\net8.0\Metodos.exe
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\bin\Debug\net8.0\Metodos.deps.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\bin\Debug\net8.0\Metodos.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\bin\Debug\net8.0\Metodos.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Metodos\obj\Debug\net8.0\ref\Metodos.dll

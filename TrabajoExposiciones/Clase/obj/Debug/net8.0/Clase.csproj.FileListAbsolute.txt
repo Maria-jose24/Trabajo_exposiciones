@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\bin\Debug\net8.0\Clase.exe
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\bin\Debug\net8.0\Clase.deps.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\bin\Debug\net8.0\Clase.runtimeconfig.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\bin\Debug\net8.0\Clase.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\bin\Debug\net8.0\Clase.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\refint\Clase.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\Clase.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\Clase\obj\Debug\net8.0\ref\Clase.dll

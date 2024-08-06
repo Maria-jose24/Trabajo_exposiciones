@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\bin\Debug\net8.0\ASyncYAwait.exe
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\bin\Debug\net8.0\ASyncYAwait.deps.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\bin\Debug\net8.0\ASyncYAwait.runtimeconfig.json
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\bin\Debug\net8.0\ASyncYAwait.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\bin\Debug\net8.0\ASyncYAwait.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\refint\ASyncYAwait.dll
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.pdb
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ASyncYAwait.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Trabajo_exposiciones\TrabajoExposiciones\ASyncYAwait\obj\Debug\net8.0\ref\ASyncYAwait.dll
